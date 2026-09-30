@@ -3,11 +3,11 @@
 public class Salutation {
 
   public static void main(String[] args) {
-    System.out.println(saluer("user"));
+    System.out.println(saluer("confit de cannard"));
   }
 
   static String saluer(String nom) {
     // TODO: chaque membre du groupe ajoute ICI sa salutation, dans sa propre branche.
-    return "Hello, " + nom + "!";
+    return "Bonsoir, " + nom + "!";
   }
 }
