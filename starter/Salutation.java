@@ -7,7 +7,6 @@ public class Salutation {
   }
 
   static String saluer(String nom) {
-    // TODO: chaque membre du groupe ajoute ICI sa salutation, dans sa propre branche.
     return "您好, " + nom + "!";
   }
 }
