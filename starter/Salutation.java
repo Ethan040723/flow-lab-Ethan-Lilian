@@ -3,11 +3,10 @@
 public class Salutation {
 
   public static void main(String[] args) {
-    System.out.println(saluer("Mr"));
+    System.out.println(saluer("鴨肉醃漬"));
   }
 
   static String saluer(String nom) {
-    // TODO: chaque membre du groupe ajoute ICI sa salutation, dans sa propre branche.
-    return "Guten tag, " + nom + "!";
+    return "您好, " + nom + "!";
   }
 }
